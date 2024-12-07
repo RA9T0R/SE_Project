@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div>
       <h1 className="text-3xl font-bold underline">
-        Hello Max!
+        Hello Fuck You!
       </h1>
     </div>
   )
